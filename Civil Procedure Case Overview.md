@@ -22,3 +22,5 @@ adickes
 Celotex
 Chamberlain
 Reid v. San Pedro
+Erie - the central command of Erie is basic. In diversity cases federal courts must apply the law that would be applied by the courts of the state in which they sit. They are not free to decide for themselves the “right” rule of consideration, the duty that a railroad owes to a trespasser, or the enforceability of exclusive contracts. Rather than create “general common law,” their job in a diversity case is to apply state common law. In those broad areas where the law is largely judge-made, such as contracts, torts, probate, and property, state law reigns supreme because “there can be no other law,”
+
